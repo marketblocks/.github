@@ -1,4 +1,7 @@
 ## What is marketblocks?
+
+*A single tool for the research, testing and deployment of your trading algorithm.*
+
 marketblocks is a high performance C++ framework that drastically reduces the complexity and development time of cryptocurrency trading algorithms. It provides an abstract interface for interacting with cryptocurrency exchanges and has built-in live test and back testing run modes which can be enabled simply through changing a config file. This allows trading strategies developed with marketblocks to be both exchange and run mode agnostic.
 
 ### Key Features
