@@ -10,7 +10,7 @@ marketblocks boasts the following key features:
   - Built-in logging framework
 
 ### Supported Exchanges
-The list of supported exchanges is growing every day and marketblocks already supports:
+marketblocks features built-in support for the following exchanges:
   - Kraken
   - Coinbase Pro
 
