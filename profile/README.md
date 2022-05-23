@@ -3,7 +3,7 @@
 
 <p></p>
 <p align="center">
-   <i><b>A single tool for the research, testing and deployment of your trading algorithm.</b></i>
+   <i><b>A single tool for the development, testing and deployment of your trading algorithm.</b></i>
 </p>
 <p></p>
 
