@@ -14,16 +14,13 @@ The list of supported exchanges is growing every day and marketblocks already su
   - Kraken
   - Coinbase Pro
 
-![image](https://user-images.githubusercontent.com/43093246/169862323-9dcc4e90-9508-4027-b8f0-7720c46d6200.png)
-
-
-
-![image](https://user-images.githubusercontent.com/43093246/169862691-26896b6a-bc97-4e73-aa0b-1194f4c50bf0.png)
-
 
 ### Example Strategies
 
 [Triangular Arbitrage](https://github.com/marketblocks/triangular_arbitrage_example) - HFT, websockets, live testing
 
+![image](https://user-images.githubusercontent.com/43093246/169862323-9dcc4e90-9508-4027-b8f0-7720c46d6200.png)
+
 [Mean Reversion](https://github.com/marketblocks/mean_reversion_example) - Back testing, custom configs, REST API polling
 
+![image](https://user-images.githubusercontent.com/43093246/169862691-26896b6a-bc97-4e73-aa0b-1194f4c50bf0.png)
