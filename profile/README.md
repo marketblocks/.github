@@ -10,6 +10,11 @@ marketblocks boasts the following key features:
   - Built-in logging framework
   - Extensive unit and integration test coverage
 
+![image](https://user-images.githubusercontent.com/43093246/169862323-9dcc4e90-9508-4027-b8f0-7720c46d6200.png)
+
+![image](https://user-images.githubusercontent.com/43093246/169862691-26896b6a-bc97-4e73-aa0b-1194f4c50bf0.png)
+
+
 ### Supported Exchanges
 The list of supported exchanges is growing every day and marketblocks already supports:
   - Kraken
