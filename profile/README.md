@@ -23,6 +23,7 @@ marketblocks boasts the following key features:
 marketblocks features built-in support for the following exchanges:
   - Kraken
   - Coinbase Pro
+  - ByBit
 
 ### Images
 
