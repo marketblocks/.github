@@ -24,6 +24,8 @@ marketblocks features built-in support for the following exchanges:
   - Kraken
   - Coinbase Pro
   - ByBit
+  - Binance
+  - Digifinex
 
 ### Images
 
