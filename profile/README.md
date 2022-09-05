@@ -36,5 +36,5 @@ marketblocks features built-in support for the following exchanges:
 ![image](https://user-images.githubusercontent.com/43093246/169862691-26896b6a-bc97-4e73-aa0b-1194f4c50bf0.png)
 
 
-### [Example](https://github.com/marketblocks/triangular_arbitrage_example)
+### [Example](https://github.com/marketblocks/triangular_arbitrage_example) - (Triangular Arbitrage)
 
