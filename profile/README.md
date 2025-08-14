@@ -1,4 +1,4 @@
-## What is marketblocks?
+# What is marketblocks?
 
 In September 2021, I took a deliberate career pause to focus on upskilling. With a degree in Mechanical Engineering and a professional background in Software Engineering, I recognised gaps in my understanding of fundamental computer science concepts and set out to close them through an intensive self-directed learning program.
 
@@ -16,6 +16,8 @@ This period strengthened my problem-solving skills, deepened my low-level progra
 
 
 
+
+## The Product
 
 <p></p>
 <p align="center">
